@@ -25,9 +25,9 @@ h1 {
   background-color: #fff;
   color: #1f3251;
   border-radius: 1.25em;
-  padding: 0.8em;
+  padding: 1em;
   margin: 1em;
-  width: 18em;
+  width: 18.3em;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 7px 25px 0px;
 }
 .card img {
@@ -43,5 +43,5 @@ h1 {
   text-align: center;
 }
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: #3e52a3;
 }
